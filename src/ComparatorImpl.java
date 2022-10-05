@@ -18,6 +18,7 @@ public class ComparatorImpl {
         p.setAge(30);
         pList.add(p);
 
+
         //-- natural sorting i.e comes with object implementation, by age
         Collections.sort(pList);
 
