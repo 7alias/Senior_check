@@ -10,6 +10,10 @@ public class Main {
     }
 
     public static void main(String[] args) {
+double i = 2 - 1.1;
+        System.out.println(i);
+
+
         boolean bool;
         bool = foo1() || foo2();
         System.out.print("");
